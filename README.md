@@ -4,7 +4,7 @@
 
 - 18y 📅
 - Formado em Desenvolvimento de Sistemas - ETEC Jau-SP
-- Desenvolvedor FullStack ✔
+- Estudante da Faculdade Integradas de Bauru (FIB) - Ciências da Computação
 
 
 <div>
